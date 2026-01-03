@@ -1,3 +1,6 @@
+
+<img width="2529" height="1178" alt="face_recognition" src="https://github.com/user-attachments/assets/b0ad7f1a-7cad-46ac-a6ea-abf1d1626a39" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
